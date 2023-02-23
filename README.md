@@ -5,3 +5,4 @@ TODO:
 - opendatabot
 - google api geoloc
 - google trends
+- nbu api
